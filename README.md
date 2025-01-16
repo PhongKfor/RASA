@@ -147,4 +147,6 @@ Khi bạn muốn cập nhật chatbot, bạn có thể:
 - Thử nghiệm chatbot với `rasa shell` hoặc chạy server với `rasa run`.
 
 ---
+[Cấu trúc của 1 dự án rasa cơ bản](rasa_project_structure.md)
+
 [Hướng dẫn tạo chatbot tư vấn tuyển sinh](TrainRasa.md)
