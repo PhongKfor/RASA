@@ -1,5 +1,5 @@
 
-# Hướng Dẫn Cài Đặt và Sử Dụng Rasa
+## Hướng Dẫn Cài Đặt và Sử Dụng Rasa
 
 Dưới đây là hướng dẫn đầy đủ để **cài đặt và sử dụng Rasa** trên máy tính của bạn. Hướng dẫn này sẽ bao gồm cách cài đặt môi trường ảo, cài đặt Rasa, và tạo một dự án cơ bản với Rasa.
 
@@ -145,3 +145,6 @@ Khi bạn muốn cập nhật chatbot, bạn có thể:
 - Sử dụng lệnh `rasa init` để tạo dự án mới.
 - Huấn luyện mô hình với `rasa train`.
 - Thử nghiệm chatbot với `rasa shell` hoặc chạy server với `rasa run`.
+
+---
+[Hướng dẫn tạo chatbot tư vấn tuyển sinh](TrainRasa.md)
