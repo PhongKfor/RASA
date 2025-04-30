@@ -10,7 +10,7 @@ Dưới đây là hướng dẫn đầy đủ để **cài đặt và sử dụn
 Trước khi cài đặt Rasa, bạn nên tạo một môi trường ảo để giữ cho các thư viện không xung đột với hệ thống Python hiện tại.
 
 ### Tạo môi trường ảo:
-1. **Cài đặt Python (3.8-3.9) nếu chưa có.**  
+1. **Cài đặt Python (3.8-3.10) nếu chưa có.**  
    Đảm bảo Python đã được cài đặt và phiên bản của bạn là 3.8 trở lên (khuyến nghị 3.9).
    
    Kiểm tra phiên bản Python:
